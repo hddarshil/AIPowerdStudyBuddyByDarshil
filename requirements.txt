@@ -1,0 +1,10 @@
+streamlit
+google-generativeai
+toml
+PyPDF2
+python-pptx
+SpeechRecognition
+fpdf
+Pillow
+networkx
+matplotlib
